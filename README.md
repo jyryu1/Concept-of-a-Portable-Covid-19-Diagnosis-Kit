@@ -26,6 +26,10 @@ I would like to use following technology that overcomes limitations of the STOPC
 * Do-it-yourself (DIY) mask pack/Microfluidics design – No pipettes, resolving possible contamination issues
 * Uses Smart Hydrogel Technology – no need for detection strips (detection device) – positive or negative result 
  
+<p align="center">
+<img src="https://user-images.githubusercontent.com/29791211/87841953-e39bee80-c8e3-11ea-9519-9fa8d00653a6.png">
+</p>
+
 If you are interested in learning more, or have an interest in working together on this, please contact me.
 Sincerely,
 
