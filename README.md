@@ -40,10 +40,10 @@ https://orcid.org/0000-0001-7686-3783
  
 Reference
 
-Broughton, J. P., Deng, X., Yu, G., Fasching, C. L., Servellita, V., Singh, J., Miao, X., Streithorst, J. A., Granados, A., Sotomayor-gonzalez, A., Zorn, K., Gopez, A., Hsu, E., Gu, W., Miller, S., Pan, C., Guevara, H., Wadford, D. A., Chen, J. S., & Chiu, C. Y. (2019). CRISPR – Cas12-based detection of SARS-CoV-2.
+- Broughton, J. P., Deng, X., Yu, G., Fasching, C. L., Servellita, V., Singh, J., Miao, X., Streithorst, J. A., Granados, A., Sotomayor-gonzalez, A., Zorn, K., Gopez, A., Hsu, E., Gu, W., Miller, S., Pan, C., Guevara, H., Wadford, D. A., Chen, J. S., & Chiu, C. Y. (2019). CRISPR – Cas12-based detection of SARS-CoV-2.
 Crippa, M., Bartolucci, G. B., Toffoletto, F., & Marcer, G. (2012). Occupational diseases due to allergic and toxic chemicals in health care workers: Fitness for work. Medicina Del Lavoro, 103(3), 187–197.
-Piepenburg, O., Williams, C. H., Stemple, D. L., & Armes, N. A. (2006). DNA detection using recombination proteins. PLoS Biology, 4(7), 1115–1121. https://doi.org/10.1371/journal.pbio.0040204
-Da Silva, S. J. R., Pardee, K., & Pena, L. (2019). Loop-mediated isothermal amplification (LAMP) for the diagnosis of Zika virus: A review. Viruses, 12(1), 1–20. https://doi.org/10.3390/v12010019
-Ladha, A., Segel, M., Li, J., Walker, B. D., Greninger, A. L., & Jerome, K. R. (2020). Point-of-care testing for COVID-19 using SHERLOCK diagnostics.
-Ladha, A., Joung, J., Abudayyeh, O. O., Gootenberg, J. S., & Zhang, F. (2020). A 5-min RNA preparation method for COVID-19 detection with RT-qPCR. Medrxiv, 1–3. https://doi.org/10.1101/2020.05.07.20055947
-English, M. A., Soenksen, L. R., Gayet, R. V, Puig, H. De, Angenent-mari, N. M., Mao, A. S., Nguyen, P. Q., & Collins, J. J. (2019). Programmable CRISPR-responsive smart materials. 785(August), 780–785.
+- Piepenburg, O., Williams, C. H., Stemple, D. L., & Armes, N. A. (2006). DNA detection using recombination proteins. PLoS Biology, 4(7), 1115–1121. https://doi.org/10.1371/journal.pbio.0040204
+- Da Silva, S. J. R., Pardee, K., & Pena, L. (2019). Loop-mediated isothermal amplification (LAMP) for the diagnosis of Zika virus: A review. Viruses, 12(1), 1–20. https://doi.org/10.3390/v12010019
+- Ladha, A., Segel, M., Li, J., Walker, B. D., Greninger, A. L., & Jerome, K. R. (2020). Point-of-care testing for COVID-19 using SHERLOCK diagnostics.
+- Ladha, A., Joung, J., Abudayyeh, O. O., Gootenberg, J. S., & Zhang, F. (2020). A 5-min RNA preparation method for COVID-19 detection with RT-qPCR. Medrxiv, 1–3. https://doi.org/10.1101/2020.05.07.20055947
+- English, M. A., Soenksen, L. R., Gayet, R. V, Puig, H. De, Angenent-mari, N. M., Mao, A. S., Nguyen, P. Q., & Collins, J. J. (2019). Programmable CRISPR-responsive smart materials. 785(August), 780–785.
