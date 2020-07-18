@@ -11,15 +11,13 @@ Certain factors make them impractical for portable use
 - Need detection strips (detection device)
 - Contamination risk
 
-Following shows example of STOPCovid kit
+Following shows an example of STOPCovid kit
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/29791211/87841733-6a4fcc00-c8e2-11ea-89a2-b040c517a46e.png">
 </p>
 
 I would like to use following technology that overcomes limitations of the STOPCovid. 
-
-
 
 * Uses lyophilized powder – storage of reagent in RT is enabled.
 * Hot pack – used to sustain critical temperature at 60o C. 
@@ -38,7 +36,7 @@ Ji Young Ryu, Ph.D.
 https://orcid.org/0000-0001-7686-3783
  
  
-Reference
+**Reference**
 
 - Broughton, J. P., Deng, X., Yu, G., Fasching, C. L., Servellita, V., Singh, J., Miao, X., Streithorst, J. A., Granados, A., Sotomayor-gonzalez, A., Zorn, K., Gopez, A., Hsu, E., Gu, W., Miller, S., Pan, C., Guevara, H., Wadford, D. A., Chen, J. S., & Chiu, C. Y. (2019). CRISPR – Cas12-based detection of SARS-CoV-2.
 Crippa, M., Bartolucci, G. B., Toffoletto, F., & Marcer, G. (2012). Occupational diseases due to allergic and toxic chemicals in health care workers: Fitness for work. Medicina Del Lavoro, 103(3), 187–197.
