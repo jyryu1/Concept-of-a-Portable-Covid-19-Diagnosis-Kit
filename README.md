@@ -29,6 +29,7 @@ I would like to use following technology that overcomes limitations of the STOPC
 </p>
 
 If you are interested in learning more, or have an interest in working together on this, please contact me.
+Or let's develop together using Github platform together!
 
 Sincerely,
 Ji Young Ryu, Ph.D.
