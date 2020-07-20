@@ -1,4 +1,5 @@
 # Concept-of-a-Portable-Covid-19-Diagnosis-Kit
+We will be protected, when we detect it. 
 A possible design for CRISPR-based corona detection kit which people could use at home
 
 Portable Covid-19 diagnosis kits help control the spread of the virus
