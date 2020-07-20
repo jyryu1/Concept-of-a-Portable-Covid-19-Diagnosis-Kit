@@ -2,7 +2,7 @@
 
 **We will be protected, when we detect it.**
 
-**A possible design for CRISPR-based corona detection kit which people could use at home**
+**A possible design for CRISPR-based corona detection kit which people could use at home or office**
 
 Portable Covid-19 diagnosis kits help control the spread of the virus
 STOPCovid technology is designed for laboratory use
